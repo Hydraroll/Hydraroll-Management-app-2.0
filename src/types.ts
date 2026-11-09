@@ -1,6 +1,6 @@
 export type ServiceStatus = 'O' | 'C' | 'R' | 'N/A';
 export type AppRole = 'platform_admin' | 'internal_manager' | 'technician' | 'customer_admin' | 'customer_user';
-export type ModuleKey = 'home' | 'service' | 'inventory' | 'files';
+export type ModuleKey = 'home' | 'service' | 'inventory' | 'files' | 'equipment';
 
 export interface ChecklistSection {
   title: string;

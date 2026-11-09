@@ -145,3 +145,7 @@ Stage 1 automated checks passed during foundation work: 4 local data-rule tests,
 ## Current scope boundary
 
 This project prepares the app structure, prototype migration, PWA shell, Supabase client/auth entry, and a reviewable RLS-oriented schema. It does not create cloud accounts, connect production credentials, deploy, change DNS, import customer records, or claim offline database synchronisation is complete.
+
+## Customer and equipment register follow-on
+
+The first UI slice adds a local-preview customer directory, equipment register and equipment overview. The cloud version stays hidden until authenticated repositories and customer-isolation tests are complete. The additive schema is in `../supabase/migrations/0002_customer_equipment_register.sql`; screen, permission, migration and acceptance details are in [customer-equipment-register.md](customer-equipment-register.md). RLS test cases are recorded in `../supabase/tests/customer_equipment_rls.md` and must pass in an isolated Supabase project before customer data or accounts are enabled.
