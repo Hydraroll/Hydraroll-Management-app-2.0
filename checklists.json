@@ -1,0 +1,720 @@
+{
+  "common": [
+    [
+      "Visual check — frame",
+      [
+        "Clean",
+        "Painting",
+        "Labelling of valves",
+        "Chassis condition",
+        "Cabinets & doors"
+      ]
+    ],
+    [
+      "Visual check — hydraulic",
+      [
+        "Hoses",
+        "Piping and clamps",
+        "Ball valves",
+        "Couplings",
+        "Lift cylinders",
+        "Steer cylinders",
+        "Oil reservoir"
+      ]
+    ],
+    [
+      "Visual check — pneumatic",
+      [
+        "Hoses",
+        "Couplings",
+        "Valves",
+        "Relay valves",
+        "Air tanks"
+      ]
+    ],
+    [
+      "Visual check — electrical",
+      [
+        "Connector plugs",
+        "Junction boxes",
+        "Lighting",
+        "Switching solenoids",
+        "Remote present"
+      ]
+    ],
+    [
+      "Functional checks — hydraulic",
+      [
+        "Gauges",
+        "Lift system",
+        "Steer system",
+        "Landing legs",
+        "Ball valves",
+        "Hoses, pipes & connections",
+        "Coupling cylinder"
+      ]
+    ],
+    [
+      "Functional checks — pneumatic",
+      [
+        "Check air system for leaks",
+        "System function",
+        "Park brake function"
+      ]
+    ],
+    [
+      "Functional checks — electrical",
+      [
+        "Remote operation — all functions",
+        "Switching solenoids",
+        "Manual override (solenoids)",
+        "Work lights"
+      ]
+    ],
+    [
+      "Adjust",
+      [
+        "Pressure relief valves — steering",
+        "Pressure relief valves — suspension",
+        "Wedge adjustment"
+      ]
+    ],
+    [
+      "Lubricate",
+      [
+        "Central greasing system — steering head",
+        "Hinge pins",
+        "Lift cylinders",
+        "Landing legs",
+        "Clean electrical connections (dielectric grease)"
+      ]
+    ]
+  ],
+  "goldhofer": [
+    [
+      "Visual check — frame",
+      [
+        "Steering plates",
+        "Steering rods",
+        "Swivel arm",
+        "Lower knee joint",
+        "Pendulum axles",
+        "Tyre condition",
+        "Rims & wheel bolts",
+        "Lifting & lashing rings",
+        "Axle lift at lower knee joint"
+      ]
+    ],
+    [
+      "Visual check — hydraulic",
+      [
+        "Hoses",
+        "Piping and clamps",
+        "Ball valves",
+        "Couplings",
+        "Lift cylinders",
+        "Steer cylinders"
+      ]
+    ],
+    [
+      "Visual check — pneumatic",
+      [
+        "Hoses",
+        "Valves",
+        "Brake boosters",
+        "EBS modulator",
+        "Relay valves",
+        "Air tanks",
+        "ALB valve / EBS modulator"
+      ]
+    ],
+    [
+      "Visual check — electrical",
+      [
+        "Connector plugs",
+        "Junction boxes",
+        "Lighting",
+        "EBS modulator",
+        "ABS controller"
+      ]
+    ],
+    [
+      "Functional checks — mechanical",
+      [
+        "Free play at bell crank",
+        "Free play at steer cylinders",
+        "Free play at steering plate",
+        "Free play at lower knee joint",
+        "Free play at steering rods",
+        "Free play at wheel bearings",
+        "Pendulum axle torsion rubber"
+      ]
+    ],
+    [
+      "Functional checks — hydraulic",
+      [
+        "Gauges",
+        "Lift system",
+        "Steer system",
+        "Accumulator charge",
+        "Ball valves",
+        "Hoses, pipes & connections",
+        "Coupling cylinder"
+      ]
+    ],
+    [
+      "Functional checks — pneumatic",
+      [
+        "Check air system for leaks",
+        "System function",
+        "Check air filters",
+        "Park brake function",
+        "ALB function",
+        "EBS function + ALB pressure sensors"
+      ]
+    ],
+    [
+      "Adjust",
+      [
+        "Wheel alignment",
+        "Tyre pressure",
+        "Hydraulic pressure reducers",
+        "Accumulator charge",
+        "ALB valve values"
+      ]
+    ],
+    [
+      "Lubricate",
+      [
+        "Top swivel arm",
+        "Lower knee joint",
+        "Brake levers & S-cams",
+        "Lower ball joint (cylinder)",
+        "Steering rods",
+        "Steer cylinders",
+        "Steering plates",
+        "Clean electrical connections (dielectric grease)"
+      ]
+    ],
+    [
+      "Drive system",
+      [
+        "Check hub oils",
+        "Drive couplings",
+        "Drive / pilot pressure hoses",
+        "System leaks"
+      ]
+    ]
+  ],
+  "gooseneck": [
+    [
+      "Visual check — frame",
+      [
+        "Clean",
+        "Painting",
+        "Labelling of valves",
+        "Chassis condition",
+        "Cabinets & doors",
+        "PPU throttle",
+        "Side boards",
+        "King pin — measure & torque",
+        "Riser block mounting",
+        "Steering head / mounting — torque to specification",
+        "Wedge, keeper plates & linch pins",
+        "Ball race — torque to specification",
+        "Lifting & lashing rings"
+      ]
+    ],
+    [
+      "Visual check — hydraulic",
+      [
+        "Hoses",
+        "Piping and clamps",
+        "Ball valves",
+        "Valve bank — lift & lower",
+        "Valve bank — steering",
+        "Gauges",
+        "Couplings",
+        "Steering cylinders",
+        "Lift cylinders",
+        "Landing leg cylinders",
+        "Oil reservoir"
+      ]
+    ],
+    [
+      "Visual check — pneumatic",
+      [
+        "Hoses",
+        "Couplings",
+        "Valves",
+        "Relay valves",
+        "Air tanks"
+      ]
+    ],
+    [
+      "Visual check — electrical",
+      [
+        "Connector plugs",
+        "Junction boxes",
+        "Lighting",
+        "Switching solenoids",
+        "Remote present"
+      ]
+    ],
+    [
+      "Functional checks — hydraulic",
+      [
+        "Gauges",
+        "Lift system",
+        "Steer system",
+        "Landing legs",
+        "Ball valves",
+        "Hoses, pipes & connections",
+        "Coupling cylinder"
+      ]
+    ],
+    [
+      "Functional checks — pneumatic",
+      [
+        "Check air system for leaks",
+        "System function",
+        "Park brake function"
+      ]
+    ],
+    [
+      "Functional checks — electrical",
+      [
+        "Remote operation — all functions",
+        "Switching solenoids",
+        "Manual override (solenoids)",
+        "Work lights"
+      ]
+    ],
+    [
+      "Adjust",
+      [
+        "Pressure relief valves — steering",
+        "Pressure relief valves — suspension",
+        "Wedge adjustment"
+      ]
+    ],
+    [
+      "Lubricate",
+      [
+        "Central greasing system — steering head",
+        "Hinge pins",
+        "Lift cylinders",
+        "Landing legs",
+        "Clean electrical connections (dielectric grease)"
+      ]
+    ]
+  ],
+  "scheuerle": [
+    [
+      "Visual check — frame",
+      [
+        "Clean",
+        "Painting",
+        "Labelling of valves",
+        "Chassis condition",
+        "Steering plates",
+        "Steering rods",
+        "Swivel arm",
+        "Lower knee joint",
+        "Pendulum axles",
+        "Tyre condition",
+        "Rims & wheel bolts",
+        "Lifting & lashing rings",
+        "Axle lift at lower knee joint"
+      ]
+    ],
+    [
+      "Visual check — hydraulic",
+      [
+        "Hoses",
+        "Piping and clamps",
+        "Ball valves",
+        "Couplings",
+        "Lift cylinders",
+        "Steer cylinders"
+      ]
+    ],
+    [
+      "Visual check — pneumatic",
+      [
+        "Hoses",
+        "Valves",
+        "Brake boosters",
+        "Air tanks",
+        "ALB valve"
+      ]
+    ],
+    [
+      "Visual check — electrical",
+      [
+        "Connector plugs",
+        "Junction boxes",
+        "Lighting",
+        "ABS controller"
+      ]
+    ],
+    [
+      "Functional checks — mechanical",
+      [
+        "Free play at bell crank",
+        "Free play at steer cylinders",
+        "Free play at steering plate",
+        "Free play at lower knee joint",
+        "Free play at steering rods",
+        "Free play at wheel bearings",
+        "Pendulum axle torsion rubber"
+      ]
+    ],
+    [
+      "Functional checks — hydraulic",
+      [
+        "Gauges",
+        "Lift system",
+        "Steer system",
+        "Accumulator charge",
+        "Ball valves",
+        "Hoses, pipes & connections",
+        "Coupling cylinder"
+      ]
+    ],
+    [
+      "Functional checks — pneumatic",
+      [
+        "Check air system for leaks",
+        "System function",
+        "Check air filters",
+        "Park brake function",
+        "ALB function"
+      ]
+    ],
+    [
+      "Adjust",
+      [
+        "Wheel alignment",
+        "Tyre pressure",
+        "Hydraulic pressure reducers",
+        "Accumulator charge",
+        "ALB valve values"
+      ]
+    ],
+    [
+      "Lubricate",
+      [
+        "Top swivel arm",
+        "Lower knee joint",
+        "Brake levers & S-cams",
+        "Lower ball joint (cylinder)",
+        "Steering rods",
+        "Steer cylinders",
+        "Steering plates",
+        "Clean electrical connections (dielectric grease)"
+      ]
+    ]
+  ],
+  "nooteboom": [
+    [
+      "Visual check — frame",
+      [
+        "Clean",
+        "Painting",
+        "Labelling of valves",
+        "Chassis condition",
+        "Steering plates",
+        "Steering rods",
+        "Lower knee joint",
+        "Tyre condition",
+        "Rims & wheel bolts",
+        "Lifting & lashing rings",
+        "Kingpin"
+      ]
+    ],
+    [
+      "Visual check — hydraulic",
+      [
+        "Hoses",
+        "Piping and clamps",
+        "Ball valves",
+        "Hydraulic pump",
+        "Oil reservoir",
+        "Steer cylinders"
+      ]
+    ],
+    [
+      "Visual check — pneumatic",
+      [
+        "Hoses",
+        "Valves",
+        "Brake boosters",
+        "Air tanks",
+        "Air bags"
+      ]
+    ],
+    [
+      "Visual check — electrical",
+      [
+        "12V / 24V battery system",
+        "Junction boxes",
+        "Lighting"
+      ]
+    ],
+    [
+      "Functional checks — mechanical",
+      [
+        "Free play at bell crank",
+        "Free play at steer cylinders",
+        "Free play at steering rods",
+        "Free play at wheel bearings"
+      ]
+    ],
+    [
+      "Functional checks — hydraulic",
+      [
+        "Steer system",
+        "Accumulator charge",
+        "Lift / lower leg function",
+        "Hoses, pipes & connections"
+      ]
+    ],
+    [
+      "Functional checks — pneumatic",
+      [
+        "Check air system for leaks",
+        "System function",
+        "Park brake function",
+        "Autogreaser front",
+        "Autogreaser rear",
+        "Roll test"
+      ]
+    ],
+    [
+      "Adjust",
+      [
+        "Wheel alignment",
+        "Tyre pressure"
+      ]
+    ],
+    [
+      "Lubricate",
+      [
+        "Brake levers & S-cams",
+        "Steering rods",
+        "Steer cylinders",
+        "Clean electrical connections (dielectric grease)"
+      ]
+    ]
+  ],
+  "ppu": [
+    [
+      "Visual check — frame",
+      [
+        "Clean",
+        "Painting",
+        "Labelling of valves",
+        "Engine mounting",
+        "Fuel tank mounting",
+        "Hydraulic tank mounting",
+        "Frame & lifting points"
+      ]
+    ],
+    [
+      "Visual check — hydraulic",
+      [
+        "Pumps",
+        "Hoses",
+        "Piping and clamps",
+        "Ball valves",
+        "Couplings"
+      ]
+    ],
+    [
+      "Visual check — pneumatic",
+      [
+        "Hoses",
+        "Compressor",
+        "Gauges",
+        "Air driers"
+      ]
+    ],
+    [
+      "Visual check — electrical",
+      [
+        "Battery & mounting",
+        "Connector plugs",
+        "Cabinets",
+        "Junction boxes",
+        "Ignition"
+      ]
+    ],
+    [
+      "Visual check — mechanical",
+      [
+        "Coolant level",
+        "Belts — condition & tension",
+        "Radiator / fan",
+        "Oil leaks",
+        "Damaged components"
+      ]
+    ],
+    [
+      "Replace",
+      [
+        "Engine oil",
+        "Oil filter",
+        "Fuel filter",
+        "In-line fuel filter",
+        "Air filter",
+        "Hydraulic filter"
+      ]
+    ],
+    [
+      "Functional checks — hydraulic",
+      [
+        "Gauges",
+        "Valves",
+        "Pump function",
+        "Pressure relief",
+        "Accumulators",
+        "Hoses, pipes & connections"
+      ]
+    ],
+    [
+      "Functional checks — pneumatic",
+      [
+        "Check air system for leaks",
+        "Compressor function"
+      ]
+    ],
+    [
+      "Adjust",
+      [
+        "Accumulator pre-charge pressure",
+        "Relief pressure adjustment",
+        "Belt tension"
+      ]
+    ]
+  ],
+  "reconfigure": [
+    [
+      "Reconfiguration checks",
+      [
+        "Configuration / axle line details recorded",
+        "Mechanical connections checked",
+        "Hydraulic connections checked",
+        "Pneumatic connections checked",
+        "Electrical connections checked",
+        "Steering and suspension function checked",
+        "Braking system checked",
+        "Fasteners torqued to specification",
+        "System function test completed",
+        "Configuration labels updated"
+      ]
+    ],
+    [
+      "Visual check — frame",
+      [
+        "Chassis condition",
+        "Steering plates",
+        "Steering rods",
+        "Swivel arm",
+        "Lower knee joint",
+        "Pendulum axles",
+        "Tyre condition",
+        "Rims & wheel bolts",
+        "Lifting & lashing rings",
+        "Axle lift at lower knee joint"
+      ]
+    ],
+    [
+      "Visual check — hydraulic",
+      [
+        "Hoses",
+        "Piping and clamps",
+        "Ball valves",
+        "Couplings",
+        "Lift cylinders",
+        "Steer cylinders"
+      ]
+    ],
+    [
+      "Visual check — pneumatic",
+      [
+        "Hoses",
+        "Valves",
+        "Brake boosters",
+        "Air tanks",
+        "ALB valve"
+      ]
+    ],
+    [
+      "Visual check — electrical",
+      [
+        "Connector plugs",
+        "Junction boxes",
+        "Lighting",
+        "ABS controller"
+      ]
+    ],
+    [
+      "Functional checks — mechanical",
+      [
+        "Free play at bell crank",
+        "Free play at steer cylinders",
+        "Free play at steering plate",
+        "Free play at lower knee joint",
+        "Free play at steering rods",
+        "Free play at wheel bearings",
+        "Pendulum axle torsion rubber"
+      ]
+    ],
+    [
+      "Functional checks — hydraulic",
+      [
+        "Gauges",
+        "Lift system",
+        "Steer system",
+        "Accumulator charge",
+        "Ball valves",
+        "Hoses, pipes & connections",
+        "Coupling cylinder"
+      ]
+    ],
+    [
+      "Functional checks — pneumatic",
+      [
+        "Check air system for leaks",
+        "System function",
+        "Check air filters",
+        "Park brake function",
+        "ALB function"
+      ]
+    ],
+    [
+      "Adjust",
+      [
+        "Wheel alignment",
+        "Tyre pressure",
+        "Hydraulic pressure reducers",
+        "Accumulator charge",
+        "ALB valve values"
+      ]
+    ],
+    [
+      "Lubricate",
+      [
+        "Top swivel arm",
+        "Lower knee joint",
+        "Brake levers & S-cams",
+        "Lower ball joint (cylinder)",
+        "Steering rods",
+        "Steer cylinders",
+        "Steering plates",
+        "Clean electrical connections (dielectric grease)"
+      ]
+    ]
+  ]
+}
